@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T18:36:38.718Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.13" etag="266yRu0zN7hnMdyRpsvH" type="github"><diagram id="62vuAnqbxfsm2niqt6j6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-19T21:36:39.619Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="DUY-iachzVNSNpX4658O" version="14.6.13" type="github">
+  <diagram id="62vuAnqbxfsm2niqt6j6" name="Page-1">
+    <mxGraphModel dx="1058" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mHSO7iMgyc_P814gtfiH-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHSO7iMgyc_P814gtfiH-3" target="mHSO7iMgyc_P814gtfiH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/git-commit-128.png;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="271" y="180" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHSO7iMgyc_P814gtfiH-7" target="mHSO7iMgyc_P814gtfiH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/git-merge-128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHSO7iMgyc_P814gtfiH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mHSO7iMgyc_P814gtfiH-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
